@@ -7,4 +7,7 @@ performs various tasks
 - notetaking
 - remainder ??
 
-I am still exploring it so will have to update later on
+I am still exploring it so will have to update later on.
+
+
+Surprisingly github properly displays org files just like it would markdown files.
