@@ -1,0 +1,10 @@
+* readme for git testing
+
+** intro
+
+this is a org file. primarily used along with emacs
+performs various tasks
+- notetaking
+- remainder ??
+
+I am still exploring it so will have to update later on
